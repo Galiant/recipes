@@ -1,1 +1,1 @@
-## Recipes - react native app
+## Foodie - react native app
